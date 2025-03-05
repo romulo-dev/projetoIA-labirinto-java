@@ -1,6 +1,6 @@
 # 🏆 Apresentação do Projeto
 
-🎥 **[Link para vídeo do projeto](#)**
+🎥 **[Link para vídeo do projeto](https://drive.google.com/drive/folders/1_-CVj1hsykOQnFXxOEL42Anl9pmzJhxk)**
 
 Este repositório contém um código em **Java** para resolver um **labirinto** utilizando o algoritmo **A* (A estrela)**. O projeto foi desenvolvido como parte da disciplina de **Inteligência Artificial**.
 
