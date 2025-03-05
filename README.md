@@ -7,7 +7,8 @@ Este repositório contém um código em **Java** para resolver um **labirinto** 
 A aplicação lê um arquivo `.txt` que contém:
 1. **Primeira linha**: dois números, representando **linhas** e **colunas** do labirinto.
 2. **Segunda linha**: dois números indicando a **posição inicial do agente**.
-3. **Linhas seguintes**: uma matriz de **zeros (0)** e **uns (1)**, onde:
+3. **Terceira linha** dois número indicando a **posição final do agente**.
+4. **Linhas seguintes**: uma matriz de **zeros (0)** e **uns (1)**, onde:
    - `0` representa um caminho livre.
    - `1` representa uma parede (o agente não pode se mover).
 
