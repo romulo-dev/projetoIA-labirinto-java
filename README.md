@@ -50,4 +50,4 @@ Foi solicitada uma **interface gráfica**, e esta foi implementada em **Java**, 
 
 Sinta-se à vontade para **fazer um fork**, abrir **pull requests** com melhorias e colaborar! 😊
 
-📩 **Entre em contato:** [Meu LinkedIn](#)
+📩 **Entre em contato:** [Meu LinkedIn](https://www.linkedin.com/in/romulo-soares-rocha/)
